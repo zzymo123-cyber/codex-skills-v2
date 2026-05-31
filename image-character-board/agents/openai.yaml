@@ -1,0 +1,4 @@
+interface:
+  display_name: "Image Character Board"
+  short_description: "Generate cinematic character concept boards"
+  default_prompt: "Use $image-character-board to create a cinematic character concept board from my character details."
