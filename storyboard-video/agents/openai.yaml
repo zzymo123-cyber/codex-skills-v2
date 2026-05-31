@@ -1,3 +1,0 @@
-display_name: Storyboard Video
-short_description: Turn storyboards into timed SeedDance video prompts and tasks.
-default_prompt: Turn this storyboard into a timed video-generation prompt, then prepare a SeedDance task with reference images and settings.

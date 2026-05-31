@@ -1,4 +1,0 @@
-interface:
-  display_name: "SeedDance Video"
-  short_description: "Reverse image prompts and call SeedDance video APIs"
-  default_prompt: "Use $seeddance-video to reverse an image prompt, optimize it, and prepare a SeedDance video task."

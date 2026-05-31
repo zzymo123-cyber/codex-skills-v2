@@ -1,2 +1,3 @@
-# codex-skills-v2
-Codex skills v2
+# Codex Skills v2
+
+Reserved for the correct v2 skill set.
